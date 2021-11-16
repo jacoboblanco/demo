@@ -2,6 +2,6 @@
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-## Use your own data
+JSON demo server.
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Just trying purposes on getting data from WiFi and BLE modules.
