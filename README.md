@@ -4,4 +4,4 @@
 
 JSON demo server.
 
-Just trying purposes on getting data from WiFi and BLE modules.
+Just trying data adquisition from WiFi and BLE modules.
